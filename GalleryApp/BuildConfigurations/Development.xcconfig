@@ -1,0 +1,11 @@
+//
+//  Development.xcconfig
+//  GalleryApp
+//
+//  Created by Ashok Narvaneni on 27/02/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+BASE_URL = https://fakestoreapi.com/products
+API_KEY = D113ASHJA233AJAJJA
